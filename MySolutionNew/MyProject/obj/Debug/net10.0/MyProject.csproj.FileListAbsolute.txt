@@ -1,0 +1,11 @@
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\bin\Debug\net10.0\MyProject.deps.json
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\bin\Debug\net10.0\MyProject.dll
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\bin\Debug\net10.0\MyProject.pdb
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfo.cs
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\MyProject.dll
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\MyProject.pdb
+C:\Users\Денис\Documents\c# test\MySolutionNew\MyProject\obj\Debug\net10.0\ref\MyProject.dll
